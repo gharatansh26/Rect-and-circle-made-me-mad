@@ -1,2 +1,2 @@
-# Rect-and-circle-made-me-mad
-games
+# p5.play-boilerplate
+Boiler plate for p5.play
